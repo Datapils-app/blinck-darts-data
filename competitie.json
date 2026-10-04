@@ -1,0 +1,725 @@
+{
+ "season": "2026/2027",
+ "updated": "2026-09-30",
+ "teams": [
+  {
+   "id": "A",
+   "name": "The Good, The Bad and the Ugly",
+   "players": [
+    "Henri",
+    "Lesley",
+    "Peter",
+    "Ronnie"
+   ],
+   "played": 0,
+   "points": 0,
+   "games": 0
+  },
+  {
+   "id": "B",
+   "name": "Mikken en Prikken",
+   "players": [
+    "Tini",
+    "Marian",
+    "Jeroen",
+    "Mike",
+    "Marij"
+   ],
+   "played": 0,
+   "points": 0,
+   "games": 0
+  },
+  {
+   "id": "C",
+   "name": "Triple P",
+   "players": [
+    "Gerrie",
+    "Piet",
+    "Koen"
+   ],
+   "played": 0,
+   "points": 0,
+   "games": 0
+  },
+  {
+   "id": "D",
+   "name": "Niet te pijlen",
+   "players": [
+    "Sjoerd",
+    "Marleen",
+    "Carien",
+    "Hennie"
+   ],
+   "played": 0,
+   "points": 0,
+   "games": 0
+  },
+  {
+   "id": "E",
+   "name": "DRRS",
+   "players": [
+    "Dorus",
+    "Robbert",
+    "Rick"
+   ],
+   "played": 0,
+   "points": 0,
+   "games": 0
+  },
+  {
+   "id": "F",
+   "name": "AT Homelus",
+   "players": [
+    "Gijsbert",
+    "Mike",
+    "Tim"
+   ],
+   "played": 0,
+   "points": 0,
+   "games": 0
+  },
+  {
+   "id": "G",
+   "name": "Dweilpijlen",
+   "players": [
+    "John",
+    "Wlco",
+    "Fred",
+    "Saïd"
+   ],
+   "played": 0,
+   "points": 0,
+   "games": 0
+  },
+  {
+   "id": "H",
+   "name": "We Got Talent",
+   "players": [
+    "Robert",
+    "Ted",
+    "Hans",
+    "Stephan"
+   ],
+   "played": 0,
+   "points": 0,
+   "games": 0
+  }
+ ],
+ "rounds": [
+  {
+   "id": "c1",
+   "date": "2026-10-06",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "B",
+     "score": null
+    },
+    {
+     "home": "C",
+     "away": "D",
+     "score": null
+    },
+    {
+     "home": "E",
+     "away": "F",
+     "score": null
+    },
+    {
+     "home": "G",
+     "away": "H",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "date": "2026-10-20",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "C",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "D",
+     "score": null
+    },
+    {
+     "home": "E",
+     "away": "G",
+     "score": null
+    },
+    {
+     "home": "F",
+     "away": "H",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "date": "2026-11-03",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "D",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "C",
+     "score": null
+    },
+    {
+     "home": "E",
+     "away": "H",
+     "score": null
+    },
+    {
+     "home": "F",
+     "away": "G",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "date": "2026-11-17",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "E",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "F",
+     "score": null
+    },
+    {
+     "home": "C",
+     "away": "G",
+     "score": null
+    },
+    {
+     "home": "D",
+     "away": "H",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c5",
+   "date": "2026-12-01",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "F",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "H",
+     "score": null
+    },
+    {
+     "home": "C",
+     "away": "E",
+     "score": null
+    },
+    {
+     "home": "D",
+     "away": "G",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c6",
+   "date": "2026-12-15",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "G",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "E",
+     "score": null
+    },
+    {
+     "home": "C",
+     "away": "H",
+     "score": null
+    },
+    {
+     "home": "D",
+     "away": "F",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c7",
+   "date": "2026-12-29",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "H",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "G",
+     "score": null
+    },
+    {
+     "home": "C",
+     "away": "F",
+     "score": null
+    },
+    {
+     "home": "D",
+     "away": "E",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "inh1",
+   "date": "2027-01-05",
+   "type": "inhaal",
+   "matches": []
+  },
+  {
+   "id": "c8",
+   "date": "2027-01-12",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "B",
+     "score": null
+    },
+    {
+     "home": "C",
+     "away": "D",
+     "score": null
+    },
+    {
+     "home": "E",
+     "away": "F",
+     "score": null
+    },
+    {
+     "home": "G",
+     "away": "H",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c9",
+   "date": "2027-01-19",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "C",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "D",
+     "score": null
+    },
+    {
+     "home": "E",
+     "away": "G",
+     "score": null
+    },
+    {
+     "home": "F",
+     "away": "H",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "date": "2027-02-02",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "D",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "C",
+     "score": null
+    },
+    {
+     "home": "E",
+     "away": "H",
+     "score": null
+    },
+    {
+     "home": "F",
+     "away": "G",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c11",
+   "date": "2027-02-16",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "E",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "F",
+     "score": null
+    },
+    {
+     "home": "C",
+     "away": "G",
+     "score": null
+    },
+    {
+     "home": "D",
+     "away": "H",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c12",
+   "date": "2027-03-02",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "F",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "H",
+     "score": null
+    },
+    {
+     "home": "C",
+     "away": "E",
+     "score": null
+    },
+    {
+     "home": "D",
+     "away": "G",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c13",
+   "date": "2027-03-16",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "G",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "E",
+     "score": null
+    },
+    {
+     "home": "C",
+     "away": "H",
+     "score": null
+    },
+    {
+     "home": "D",
+     "away": "F",
+     "score": null
+    }
+   ]
+  },
+  {
+   "id": "c14",
+   "date": "2027-04-06",
+   "type": "competitie",
+   "matches": [
+    {
+     "home": "A",
+     "away": "H",
+     "score": null
+    },
+    {
+     "home": "B",
+     "away": "G",
+     "score": null
+    },
+    {
+     "home": "C",
+     "away": "F",
+     "score": null
+    },
+    {
+     "home": "D",
+     "away": "E",
+     "score": null
+    }
+   ]
+  }
+ ],
+ "records": {
+  "highFinish": [],
+  "max180": []
+ },
+ "startTime": "20:00",
+ "history": [
+  {
+   "season": "2025/2026",
+   "date": "2025-10-07",
+   "home": "A",
+   "away": "C",
+   "homeScore": 9,
+   "awayScore": 1
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-10-21",
+   "home": "A",
+   "away": "B",
+   "homeScore": 5,
+   "awayScore": 5
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-11-04",
+   "home": "A",
+   "away": "D",
+   "homeScore": 5,
+   "awayScore": 5
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-11-18",
+   "home": "A",
+   "away": "E",
+   "homeScore": 5,
+   "awayScore": 5
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-12-02",
+   "home": "A",
+   "away": "F",
+   "homeScore": 4,
+   "awayScore": 6
+  },
+  {
+   "season": "2025/2026",
+   "date": "2026-01-20",
+   "home": "A",
+   "away": "G",
+   "homeScore": 7,
+   "awayScore": 3
+  },
+  {
+   "season": "2025/2026",
+   "date": "2026-02-10",
+   "home": "A",
+   "away": "H",
+   "homeScore": 8,
+   "awayScore": 2
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-10-07",
+   "home": "D",
+   "away": "B",
+   "homeScore": 5,
+   "awayScore": 5
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-11-04",
+   "home": "E",
+   "away": "C",
+   "homeScore": 9,
+   "awayScore": 1
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-11-18",
+   "home": "F",
+   "away": "D",
+   "homeScore": 5,
+   "awayScore": 5
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-12-16",
+   "home": "G",
+   "away": "F",
+   "homeScore": 5,
+   "awayScore": 5
+  },
+  {
+   "season": "2025/2026",
+   "date": "2026-03-03",
+   "home": "B",
+   "away": "H",
+   "homeScore": 7,
+   "awayScore": 3
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-10-21",
+   "home": "D",
+   "away": "H",
+   "homeScore": 6,
+   "awayScore": 4
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-11-04",
+   "home": "F",
+   "away": "B",
+   "homeScore": 7,
+   "awayScore": 3
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-12-02",
+   "home": "G",
+   "away": "D",
+   "homeScore": 4,
+   "awayScore": 6
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-12-16",
+   "home": "H",
+   "away": "E",
+   "homeScore": 6,
+   "awayScore": 4
+  },
+  {
+   "season": "2025/2026",
+   "date": "2026-03-03",
+   "home": "C",
+   "away": "G",
+   "homeScore": 7,
+   "awayScore": 3
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-10-07",
+   "home": "F",
+   "away": "H",
+   "homeScore": 3,
+   "awayScore": 7
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-10-21",
+   "home": "E",
+   "away": "G",
+   "homeScore": 9,
+   "awayScore": 1
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-11-18",
+   "home": "G",
+   "away": "B",
+   "homeScore": 6,
+   "awayScore": 4
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-12-02",
+   "home": "H",
+   "away": "C",
+   "homeScore": 7,
+   "awayScore": 3
+  },
+  {
+   "season": "2025/2026",
+   "date": "2026-01-20",
+   "home": "B",
+   "away": "E",
+   "homeScore": 6,
+   "awayScore": 4
+  },
+  {
+   "season": "2025/2026",
+   "date": "2026-02-10",
+   "home": "C",
+   "away": "F",
+   "homeScore": 2,
+   "awayScore": 8
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-11-04",
+   "home": "G",
+   "away": "H",
+   "homeScore": 4,
+   "awayScore": 6
+  },
+  {
+   "season": "2025/2026",
+   "date": "2025-12-16",
+   "home": "B",
+   "away": "C",
+   "homeScore": 4,
+   "awayScore": 6
+  },
+  {
+   "season": "2025/2026",
+   "date": "2026-01-20",
+   "home": "C",
+   "away": "D",
+   "homeScore": 4,
+   "awayScore": 6
+  },
+  {
+   "season": "2025/2026",
+   "date": "2026-02-10",
+   "home": "D",
+   "away": "E",
+   "homeScore": 3,
+   "awayScore": 7
+  },
+  {
+   "season": "2025/2026",
+   "date": "2026-03-03",
+   "home": "E",
+   "away": "F",
+   "homeScore": 4,
+   "awayScore": 6
+  }
+ ]
+}
