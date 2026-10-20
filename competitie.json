@@ -1,6 +1,6 @@
 {
  "season": "2026/2027",
- "updated": "2026-09-30",
+ "updated": "2026-10-06",
  "teams": [
   {
    "id": "A",
@@ -11,9 +11,9 @@
     "Peter",
     "Ronnie"
    ],
-   "played": 0,
-   "points": 0,
-   "games": 0
+   "played": 1,
+   "points": 2,
+   "games": 6
   },
   {
    "id": "B",
@@ -25,9 +25,9 @@
     "Mike",
     "Marij"
    ],
-   "played": 0,
+   "played": 1,
    "points": 0,
-   "games": 0
+   "games": 4
   },
   {
    "id": "C",
@@ -37,9 +37,9 @@
     "Piet",
     "Koen"
    ],
-   "played": 0,
+   "played": 1,
    "points": 0,
-   "games": 0
+   "games": 3
   },
   {
    "id": "D",
@@ -50,9 +50,9 @@
     "Carien",
     "Hennie"
    ],
-   "played": 0,
-   "points": 0,
-   "games": 0
+   "played": 1,
+   "points": 2,
+   "games": 7
   },
   {
    "id": "E",
@@ -62,9 +62,9 @@
     "Robbert",
     "Rick"
    ],
-   "played": 0,
-   "points": 0,
-   "games": 0
+   "played": 1,
+   "points": 2,
+   "games": 6
   },
   {
    "id": "F",
@@ -74,22 +74,22 @@
     "Mike",
     "Tim"
    ],
-   "played": 0,
+   "played": 1,
    "points": 0,
-   "games": 0
+   "games": 4
   },
   {
    "id": "G",
    "name": "Dweilpijlen",
    "players": [
     "John",
-    "Wlco",
+    "Wilco",
     "Fred",
     "Saïd"
    ],
-   "played": 0,
-   "points": 0,
-   "games": 0
+   "played": 1,
+   "points": 2,
+   "games": 6
   },
   {
    "id": "H",
@@ -100,9 +100,9 @@
     "Hans",
     "Stephan"
    ],
-   "played": 0,
+   "played": 1,
    "points": 0,
-   "games": 0
+   "games": 4
   }
  ],
  "rounds": [
@@ -114,22 +114,22 @@
     {
      "home": "A",
      "away": "B",
-     "score": null
+     "score": "6–4"
     },
     {
      "home": "C",
      "away": "D",
-     "score": null
+     "score": "3–7"
     },
     {
      "home": "E",
      "away": "F",
-     "score": null
+     "score": "6–4"
     },
     {
      "home": "G",
      "away": "H",
-     "score": null
+     "score": "6–4"
     }
    ]
   },
@@ -491,10 +491,6 @@
    ]
   }
  ],
- "records": {
-  "highFinish": [],
-  "max180": []
- },
  "startTime": "19:00",
  "history": [
   {
@@ -721,5 +717,71 @@
    "homeScore": 4,
    "awayScore": 6
   }
- ]
+ ],
+ "records": {
+  "max180": [],
+  "avonden": [
+   {
+    "date": "2026-10-06",
+    "highScore": [
+     {
+      "player": "Sjoerd Jorritsma",
+      "value": 140,
+      "count": 2
+     },
+     {
+      "player": "Dorus Besselink",
+      "value": 140,
+      "count": 1
+     },
+     {
+      "player": "Mike v Peuflik",
+      "value": 138,
+      "count": 1
+     },
+     {
+      "player": "Lesly de Bont",
+      "value": 125,
+      "count": 1
+     }
+    ],
+    "highFinish": [
+     {
+      "player": "Henny v Eijk",
+      "value": 104,
+      "count": 1
+     }
+    ]
+   }
+  ],
+  "highScore": [
+   {
+    "player": "Sjoerd Jorritsma",
+    "value": 140,
+    "count": 2
+   },
+   {
+    "player": "Dorus Besselink",
+    "value": 140,
+    "count": 1
+   },
+   {
+    "player": "Mike v Peuflik",
+    "value": 138,
+    "count": 1
+   },
+   {
+    "player": "Lesly de Bont",
+    "value": 125,
+    "count": 1
+   }
+  ],
+  "highFinish": [
+   {
+    "player": "Henny v Eijk",
+    "value": 104,
+    "count": 1
+   }
+  ]
+ }
 }
