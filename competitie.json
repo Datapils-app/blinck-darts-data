@@ -1,6 +1,6 @@
 {
  "season": "2026/2027",
- "updated": "2026-10-06",
+ "updated": "2026-10-20",
  "teams": [
   {
    "id": "A",
@@ -11,9 +11,9 @@
     "Peter",
     "Ronnie"
    ],
-   "played": 1,
-   "points": 2,
-   "games": 6
+   "played": 2,
+   "points": 4,
+   "games": 14
   },
   {
    "id": "B",
@@ -25,9 +25,9 @@
     "Mike",
     "Marij"
    ],
-   "played": 1,
+   "played": 2,
    "points": 0,
-   "games": 4
+   "games": 8
   },
   {
    "id": "C",
@@ -37,9 +37,9 @@
     "Piet",
     "Koen"
    ],
-   "played": 1,
+   "played": 2,
    "points": 0,
-   "games": 3
+   "games": 5
   },
   {
    "id": "D",
@@ -50,9 +50,9 @@
     "Carien",
     "Hennie"
    ],
-   "played": 1,
-   "points": 2,
-   "games": 7
+   "played": 2,
+   "points": 4,
+   "games": 13
   },
   {
    "id": "E",
@@ -62,9 +62,9 @@
     "Robbert",
     "Rick"
    ],
-   "played": 1,
-   "points": 2,
-   "games": 6
+   "played": 2,
+   "points": 4,
+   "games": 12
   },
   {
    "id": "F",
@@ -74,9 +74,9 @@
     "Mike",
     "Tim"
    ],
-   "played": 1,
-   "points": 0,
-   "games": 4
+   "played": 2,
+   "points": 2,
+   "games": 11
   },
   {
    "id": "G",
@@ -87,9 +87,9 @@
     "Fred",
     "Saïd"
    ],
-   "played": 1,
+   "played": 2,
    "points": 2,
-   "games": 6
+   "games": 10
   },
   {
    "id": "H",
@@ -100,9 +100,9 @@
     "Hans",
     "Stephan"
    ],
-   "played": 1,
+   "played": 2,
    "points": 0,
-   "games": 4
+   "games": 7
   }
  ],
  "rounds": [
@@ -141,22 +141,22 @@
     {
      "home": "A",
      "away": "C",
-     "score": null
+     "score": "8–2"
     },
     {
      "home": "B",
      "away": "D",
-     "score": null
+     "score": "4–6"
     },
     {
      "home": "E",
      "away": "G",
-     "score": null
+     "score": "6–4"
     },
     {
      "home": "F",
      "away": "H",
-     "score": null
+     "score": "7–3"
     }
    ]
   },
@@ -725,33 +725,22 @@
     "date": "2026-10-06",
     "highScore": [
      {
-      "player": "Sjoerd Jorritsma",
-      "value": 140,
-      "count": 2
-     },
-     {
-      "player": "Dorus Besselink",
+      "player": "Tini v Delft",
       "value": 140,
       "count": 1
      },
      {
-      "player": "Mike v Peuflik",
-      "value": 138,
+      "player": "Koen vd Pol",
+      "value": 140,
       "count": 1
      },
      {
-      "player": "Lesly de Bont",
-      "value": 125,
+      "player": "Rick Reinds",
+      "value": 140,
       "count": 1
      }
     ],
-    "highFinish": [
-     {
-      "player": "Henny v Eijk",
-      "value": 104,
-      "count": 1
-     }
-    ]
+    "highFinish": []
    }
   ],
   "highScore": [
