@@ -1,6 +1,6 @@
 {
  "season": "2026/2027",
- "updated": "2026-10-20",
+ "updated": "2026-11-03",
  "teams": [
   {
    "id": "A",
@@ -11,9 +11,9 @@
     "Peter",
     "Ronnie"
    ],
-   "played": 2,
-   "points": 4,
-   "games": 14
+   "played": 3,
+   "points": 6,
+   "games": 23
   },
   {
    "id": "B",
@@ -50,9 +50,9 @@
     "Carien",
     "Hennie"
    ],
-   "played": 2,
+   "played": 3,
    "points": 4,
-   "games": 13
+   "games": 14
   },
   {
    "id": "E",
@@ -62,9 +62,9 @@
     "Robbert",
     "Rick"
    ],
-   "played": 2,
+   "played": 3,
    "points": 4,
-   "games": 12
+   "games": 16
   },
   {
    "id": "F",
@@ -74,9 +74,9 @@
     "Mike",
     "Tim"
    ],
-   "played": 2,
-   "points": 2,
-   "games": 11
+   "played": 3,
+   "points": 4,
+   "games": 17
   },
   {
    "id": "G",
@@ -87,9 +87,9 @@
     "Fred",
     "Saïd"
    ],
-   "played": 2,
+   "played": 3,
    "points": 2,
-   "games": 10
+   "games": 14
   },
   {
    "id": "H",
@@ -100,9 +100,9 @@
     "Hans",
     "Stephan"
    ],
-   "played": 2,
-   "points": 0,
-   "games": 7
+   "played": 3,
+   "points": 2,
+   "games": 13
   }
  ],
  "rounds": [
@@ -168,7 +168,7 @@
     {
      "home": "A",
      "away": "D",
-     "score": null
+     "score": "9–1"
     },
     {
      "home": "B",
@@ -178,12 +178,12 @@
     {
      "home": "E",
      "away": "H",
-     "score": null
+     "score": "4–6"
     },
     {
      "home": "F",
      "away": "G",
-     "score": null
+     "score": "6–4"
     }
    ]
   },
@@ -725,22 +725,38 @@
     "date": "2026-10-06",
     "highScore": [
      {
-      "player": "Tini v Delft",
-      "value": 140,
+      "player": "Dorus Besselink",
+      "value": 180,
       "count": 1
      },
      {
-      "player": "Koen vd Pol",
-      "value": 140,
+      "player": "Gijs v Dinther",
+      "value": 153,
       "count": 1
      },
      {
-      "player": "Rick Reinds",
+      "player": "Hans Netten",
+      "value": 140,
+      "count": 2
+     },
+     {
+      "player": "Mike v Dinther",
       "value": 140,
       "count": 1
      }
     ],
-    "highFinish": []
+    "highFinish": [
+     {
+      "player": "Tim Kuenen",
+      "value": 85,
+      "count": 1
+     },
+     {
+      "player": "Mike v Dinther",
+      "value": 75,
+      "count": 1
+     }
+    ]
    }
   ],
   "highScore": [
@@ -751,6 +767,21 @@
    },
    {
     "player": "Dorus Besselink",
+    "value": 140,
+    "count": 1
+   },
+   {
+    "player": "Henny v Eijk",
+    "value": 140,
+    "count": 1
+   },
+   {
+    "player": "Tini v Delft",
+    "value": 140,
+    "count": 1
+   },
+   {
+    "player": "Koen vd Pol",
     "value": 140,
     "count": 1
    },
