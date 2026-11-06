@@ -725,6 +725,59 @@
     "date": "2026-10-06",
     "highScore": [
      {
+      "player": "Sjoerd Jorritsma",
+      "value": 140,
+      "count": 2
+     },
+     {
+      "player": "Dorus Besselink",
+      "value": 140,
+      "count": 1
+     },
+     {
+      "player": "Mike v Peuflik",
+      "value": 138,
+      "count": 1
+     },
+     {
+      "player": "Lesly de Bont",
+      "value": 125,
+      "count": 1
+     }
+    ],
+    "highFinish": [
+     {
+      "player": "Henny v Eijk",
+      "value": 104,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "date": "2026-10-20",
+    "highScore": [
+     {
+      "player": "Tini v Delft",
+      "value": 140,
+      "count": 1
+     },
+     {
+      "player": "Koen vd Pol",
+      "value": 140,
+      "count": 1
+     },
+     {
+      "player": "Rick Reinds",
+      "value": 140,
+      "count": 1
+     }
+    ],
+    "highFinish": []
+   },
+   {
+    "date": "2026-11-03",
+    "highScore": [
+     {
       "player": "Dorus Besselink",
       "value": 180,
       "count": 1
@@ -735,7 +788,7 @@
       "count": 1
      },
      {
-      "player": "Hans Netten",
+      "player": "Hans Peels",
       "value": 140,
       "count": 2
      },
@@ -761,6 +814,21 @@
   ],
   "highScore": [
    {
+    "player": "Dorus Besselink",
+    "value": 180,
+    "count": 1
+   },
+   {
+    "player": "Gijs v Dinther",
+    "value": 153,
+    "count": 1
+   },
+   {
+    "player": "Hans Peels",
+    "value": 140,
+    "count": 2
+   },
+   {
     "player": "Sjoerd Jorritsma",
     "value": 140,
     "count": 2
@@ -776,12 +844,22 @@
     "count": 1
    },
    {
-    "player": "Tini v Delft",
+    "player": "Koen vd Pol",
     "value": 140,
     "count": 1
    },
    {
-    "player": "Koen vd Pol",
+    "player": "Mike v Dinther",
+    "value": 140,
+    "count": 1
+   },
+   {
+    "player": "Rick Reinds",
+    "value": 140,
+    "count": 1
+   },
+   {
+    "player": "Tini v Delft",
     "value": 140,
     "count": 1
    },
@@ -800,6 +878,16 @@
    {
     "player": "Henny v Eijk",
     "value": 104,
+    "count": 1
+   },
+   {
+    "player": "Tim Kuenen",
+    "value": 85,
+    "count": 1
+   },
+   {
+    "player": "Mike v Dinther",
+    "value": 75,
     "count": 1
    }
   ]
